@@ -1,2 +1,4 @@
 # Golang_Lexer
-Tried writing a Lexer using Golang to extract tokens
+
+This is a small project where I was trying to write my own parse to parse some text and break it up into different tokens.
+
